@@ -1,0 +1,8 @@
+/***************************************************************************************
+*    Title: Pygame
+*    Author: Lenard Lindstrom, René Dudfield, Pete Shinners, Nicholas Dudfield, Thomas Kluyver
+*    Date: October 28, 2000
+*    Code Version: Python3 + Pygame 1.9.6
+*    Availability: https://pygame.org OR https://github.com/pygame/pygame/
+*
+***************************************************************************************/
